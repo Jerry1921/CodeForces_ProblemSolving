@@ -20,6 +20,8 @@ public class prob_1A {
 
         System.out.println(totTiles);
 
+        //simple changes
+
 
     }
 }
