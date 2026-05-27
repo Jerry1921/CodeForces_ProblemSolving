@@ -1,0 +1,19 @@
+import java.util.Scanner;
+
+public class prob_1352C {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        int t = sc.nextInt();
+
+        while (t-- > 0){
+
+            long n = sc.nextLong();
+            long k = sc.nextLong();
+
+            long ans = k + (k-1)/(n-1);
+
+            System.out.println(ans);
+        }
+    }
+}
