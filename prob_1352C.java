@@ -4,30 +4,16 @@ public class prob_1352C {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-//        int n = sc.nextInt();
-//        int k = sc.nextInt();
+        int t = sc.nextInt();
 
-        int[] myArr = new int[20];
+        while (t-- > 0){
 
-//        for (int i = 0; i < k+1; i++){
-//            if (i % n != 0){
-//                myArr[i] = i;
-//            }
-//        }
+            long n = sc.nextLong();
+            long k = sc.nextLong();
 
-//        System.out.println(myArr[k-1]);
+            long ans = k + (k-1)/(n-1);
 
-        int j = 0;
-        for (int i = 0; i < 20; i++){
-            j++;
-            myArr[i] = j;
-            if (i % 3 == 0){
-                j++;
-            }
-         }
-
-        for (int m = 0; m < myArr.length-1; m++){
-            System.out.println(myArr[m]);
+            System.out.println(ans);
         }
     }
 }
