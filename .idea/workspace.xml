@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="435d9a6a-5a0a-482d-8039-e1071e9af313" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/CodeForces_ProblemSolving/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeForces_ProblemSolving/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Prob_1858A.executor": "Run",
     "Application.prob_1352C.executor": "Run",
     "Application.prob_1352C_simple.executor": "Run",
     "Application.prob_1367A.executor": "Run",
@@ -41,14 +41,15 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/java/CodeForces_ProblemSolving"
+    "last_opened_file_path": "E:/CodeForces_ProblemSolving"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
       </set>
     </attachedChunks>
   </component>

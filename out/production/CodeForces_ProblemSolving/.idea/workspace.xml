@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="435d9a6a-5a0a-482d-8039-e1071e9af313" name="Changes" comment="" />
+    <list default="true" id="435d9a6a-5a0a-482d-8039-e1071e9af313" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/CodeForces_ProblemSolving/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/CodeForces_ProblemSolving/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +32,7 @@
   "keyToString": {
     "Application.prob_1352C.executor": "Run",
     "Application.prob_1352C_simple.executor": "Run",
+    "Application.prob_1367A.executor": "Run",
     "Application.prob_1950A.executor": "Run",
     "Application.prob_432A.executor": "Run",
     "Application.prob_43A.executor": "Run",
